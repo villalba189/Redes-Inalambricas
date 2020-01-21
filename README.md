@@ -16,4 +16,4 @@ Otro factor es donde está situado nuestro dispositivo, ya que si está puesto e
 
 ## ¿Quieres hackearle el wifi al vecino?
 
-Como hemos hablado la seguridad es lo más importante, por lo tanto si alguien no tiene su red configurada correctamente, hay un posibilidad de que podemos sacarle la contraseña y aprovecharnos. Esto podremos realizarlo con diferentes programas y teniendo un dispositivo con tarjeta de red, por ejemplo una forma pueder ser con [Kali](https://github.com/NswHuei/hack-wifi)
+Como hemos hablado la seguridad es lo más importante, por lo tanto si alguien no tiene su red configurada correctamente, hay un posibilidad de que podemos sacarle la contraseña y aprovecharnos. Esto podremos realizarlo con diferentes programas y teniendo un dispositivo con tarjeta de red, por ejemplo una forma pueder ser con [Kali](https://github.com/NswHuei/hack-wifi).
